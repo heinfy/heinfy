@@ -16,7 +16,7 @@ a web front-end developer
 
 ### ✨  About Me ✨
 
-- :coffee: :point_right: :email: [Email](mailto:houfei1995@gamil.com)
+- :point_right:[:email:](mailto:houfei1995@gamil.com)
 
 
 <!-- <p align="center">
