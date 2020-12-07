@@ -2,7 +2,7 @@
 
 a web front-end developer
 
-![houfeii's github stats](https://github-readme-stats.vercel.app/api?username=houfeii&&show_icons=true&&title_color=ff3830&&icon_color=7fccf2)
+![houfeii's github stats](https://github-readme-stats.vercel.app/api?username=houfeii&&show_icons=true&&title_color=ff3830&&icon_color=7fccf2&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
 
 ### 📌  Worked
 
@@ -16,7 +16,7 @@ a web front-end developer
 
 ### ✨  About Me ✨
 
-- :point_right:[email](mailto:houfei1995@gamil.com)
+- [email](mailto:houfei1995@gamil.com)
 
 
 <!-- <p align="center">
