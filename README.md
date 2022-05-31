@@ -2,9 +2,9 @@
 
 A Front-End Developer
 
-![houfeii's github stats](https://github-readme-stats.vercel.app/api?username=houfeii&show_icons=true&title_color=1e1f1c&&icon_color=7a7b75&text_color=272822&bg_color=fafbfc&hide=["contribs"])
+![heinfy's github stats](https://github-readme-stats.vercel.app/api?username=heinfy&show_icons=true&title_color=1e1f1c&&icon_color=7a7b75&text_color=272822&bg_color=fafbfc&hide=["contribs"])
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houfeii&show_icons=true&title_color=1e1f1c&&icon_color=7a7b75&text_color=272822&bg_color=fafbfc&hide=["contribs"]&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heinfy&show_icons=true&title_color=1e1f1c&&icon_color=7a7b75&text_color=272822&bg_color=fafbfc&hide=["contribs"]&layout=compact)
 
 ### Worked 📌
 
@@ -24,7 +24,7 @@ A Front-End Developer
 
 - [email](mailto:houfei1995@gamil.com)
 
-**houfeii/houfeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heinfy/heinfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
