@@ -28,14 +28,10 @@ themes： https://github.com/anuraghazra/github-readme-stats/blob/master/themes/
 
 ## 👨‍💻 关于我 🔭
 
-- 🔭 正在从事 WEB 前端开发
-- 🌱 目前正在学习 nextjs
+- 🔭 正在从事 Agent 前端开发
+- 🌱 目前正在学习 Electron
 - 📫 联系方式：[电子邮箱](mailto:houfei1995@gamil.com)
 
-## 🚀 我的项目 ✨
+## 🚀 我的网站 ✨
 
 - 🌐 [My Site](https://heinfy.top/)
-- 👯 [Blog](https://blog.heinfy.top/)
-- 😄 [Resume](https://resume.heinfy.top/)
-- ⚡ [React App](https://react.heinfy.top/)
-- 🤔 [Current DEV](https://vue.heinfy.top/)
